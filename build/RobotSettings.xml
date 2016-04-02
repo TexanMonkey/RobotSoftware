@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Robot>
+	<MainThread>
+		<Period>0.025</Period>
+		<Priority>0</Priority>
+	</MainThread>
+</Robot>
+
